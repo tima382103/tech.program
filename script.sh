@@ -1,3 +1,4 @@
+```
 #!/bin/bash
 
 if [ $# -ne 2 ]; then
@@ -36,3 +37,5 @@ for file in $filtered_files; do
         cp --backup=t "$file" "$output_directory/"
     fi
 done
+```
+
