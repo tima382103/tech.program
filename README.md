@@ -23,6 +23,7 @@ User создает заказ, затем пробует оплатить ег�
 2)![image](https://github.com/tima382103/tech.program/assets/167565143/9d4a8dcd-78aa-4399-95a0-687a37763961)
 3)![image](https://github.com/tima382103/tech.program/assets/167565143/122140ee-7e6e-4d1b-84e7-18932310a7f9)
 4)![image](https://github.com/tima382103/tech.program/assets/167565143/1719161a-12c5-4320-86a4-3ca453c1b72a)
+5)![image](https://github.com/tima382103/tech.program/assets/167565143/34f3fec1-32b0-429b-8fc0-5ce2b23d5509)
 
 Работу выполнит студент 231 ББИ Ефимов Тимофей.
 ```
